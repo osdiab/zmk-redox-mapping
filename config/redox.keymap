@@ -56,11 +56,11 @@
             // | CRTL  | ALT | GUI | LOWER |    GUI    | LOWER | SPACE   | --- | DEL  | SPACE |    RAISE    | LEFT | DOWN | UP    | RIGHT |
 
             bindings = <
- &trans    &trans    &trans    &trans     &trans     &trans                                     &trans             &trans     &trans    &trans     &trans     &trans
-&kp ESC  &kp EXCL    &kp AT  &kp HASH   &kp DLLR  &kp PRCNT  &trans                  &trans  &kp CARET           &kp AMPS  &kp ASTRK  &kp LPAR   &kp RPAR    &kp DEL
- &trans  &kp LEFT  &kp DOWN    &kp UP  &kp RIGHT   &kp PIPE  &trans                  &trans   &kp HOME          &kp PG_UP  &kp PSCRN    &kp UP  &kp GRAVE  &kp TILDE
- &trans   &kp ESC  &kp LGUI  &kp LPAR   &kp RPAR  &kp TILDE  &trans  &trans  &trans  &trans    &kp END          &kp PG_DN   &kp LEFT  &kp DOWN  &kp RIGHT    &kp RET
- &trans    &trans    &trans     &mo 3                &trans   &mo 3  &trans  &trans  &trans             &trans                &trans    &trans     &trans     &trans
+ &trans    &trans    &trans     &trans    &trans     &trans                                     &trans             &trans     &trans     &trans     &trans     &trans
+&kp ESC  &kp EXCL    &kp UP   &kp HASH  &kp DLLR  &kp PRCNT  &trans                  &trans  &kp CARET           &kp AMPS  &kp ASTRK   &kp LPAR   &kp RPAR    &kp DEL
+ &trans  &kp LEFT  &kp DOWN  &kp RIGHT    &trans   &kp PIPE  &trans                  &trans   &kp LEFT           &kp DOWN     &kp UP  &kp RIGHT  &kp GRAVE  &kp TILDE
+ &trans   &kp ESC  &kp LGUI   &kp LPAR  &kp RPAR  &kp TILDE  &trans  &trans  &trans  &trans    &kp END          &kp PG_DN     &trans     &trans     &trans    &kp RET
+ &trans    &trans    &trans      &mo 3               &trans   &mo 3  &trans  &trans  &trans             &trans                &trans     &trans     &trans     &trans
             >;
         };
 
