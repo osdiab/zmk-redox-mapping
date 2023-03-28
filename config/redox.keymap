@@ -40,7 +40,7 @@
 
             bindings = <
  &trans     &kp F1     &kp F2     &kp F3     &kp F4     &kp F5                                           &kp F6         &kp F7  &kp F8  &kp F9      &kp F10        &trans
-&kp ESC     &kp N1     &kp N2     &kp N3     &kp N4     &kp N5  &trans                  &trans           &kp N6         &kp N7  &kp N8  &kp N9       &kp N0       &kp DEL
+&trans     &kp N1     &kp N2     &kp N3     &kp N4     &kp N5  &trans                  &trans           &kp N6         &kp N7  &kp N8  &kp N9       &kp N0       &kp DEL
  &trans  &kp MINUS  &kp EQUAL   &kp LBKT   &kp RBKT   &kp BSLH  &trans                  &trans  &kp KP_MULTIPLY         &kp N4  &kp N5  &kp N6  &kp KP_PLUS  &kp KP_MINUS
  &trans    &kp ESC   &kp LGUI  &kp LG(C)  &kp LG(V)  &kp GRAVE  &trans  &trans  &trans  &trans    &kp KP_DIVIDE         &kp N1  &kp N2  &kp N3      &kp RET       &kp RET
  &trans     &trans     &trans     &trans                &trans  &trans  &trans  &trans  &kp N0                   &mo 3          &trans  &trans       &trans        &trans
@@ -57,7 +57,7 @@
 
             bindings = <
  &trans    &trans    &trans     &trans    &trans     &trans                                     &trans             &trans     &trans     &trans     &trans     &trans
-&kp ESC  &kp EXCL    &kp UP   &kp HASH  &kp DLLR  &kp PRCNT  &trans                  &trans  &kp CARET           &kp AMPS  &kp ASTRK   &kp LPAR   &kp RPAR    &kp DEL
+&trans  &kp EXCL    &kp UP   &kp HASH  &kp DLLR  &kp PRCNT  &trans                  &trans  &kp CARET           &kp AMPS  &kp ASTRK   &kp LPAR   &kp RPAR    &kp DEL
  &trans  &kp LEFT  &kp DOWN  &kp RIGHT    &trans   &kp PIPE  &trans                  &trans   &kp LEFT           &kp DOWN     &kp UP  &kp RIGHT  &kp GRAVE  &kp TILDE
  &trans   &kp ESC  &kp LGUI   &kp LPAR  &kp RPAR  &kp TILDE  &trans  &trans  &trans  &trans    &kp END          &kp PG_DN     &trans     &trans     &trans    &kp RET
  &trans    &trans    &trans      &mo 3               &trans   &mo 3  &trans  &trans  &trans             &trans                &trans     &trans     &trans     &trans
