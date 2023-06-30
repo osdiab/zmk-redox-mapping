@@ -1,4 +1,6 @@
 {
+  "id": "redox",
+  "name": "redox",
   "layouts": {
     "default": {
       "layout": [
@@ -78,5 +80,6 @@
         { "row": 4, "col": 16, "x":   16, "y": 4.375 }
       ]
     }
-  }
+  },
+  "sensors": []
 }
