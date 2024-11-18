@@ -17,3 +17,5 @@ include:
     shield: redox_left
   - board: nrfmicro_13
     shield: redox_right
+  - board: nice_nano_v2
+    shield: settings_reset
