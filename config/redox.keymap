@@ -23,7 +23,7 @@
 
             bindings = <
 &kp GRAVE     &kp N1      &kp N2       &kp N3                 &kp N4  &kp N5                                                                                &kp N6                      &kp N7  &kp N8     &kp N9    &kp N0    &kp MINUS
-&lt 2 TAB     &kp Q       &kp W        &kp E                  &kp R   &kp T     &lt 3 LEFT_PARENTHESIS                             &lt 3 RIGHT_PARENTHESIS  &kp Y                       &kp U   &kp I      &kp O     &kp P     &kp EQUAL
+&kp TAB       &kp Q       &kp W        &kp E                  &kp R   &kp T     &lt 3 LEFT_PARENTHESIS                             &lt 3 RIGHT_PARENTHESIS  &kp Y                       &kp U   &kp I      &kp O     &kp P     &kp EQUAL
 &kp CAPSLOCK  &kp A       &kp S        &kp D                  &kp F   &kp G     &lt 2 LEFT_BRACKET                                 &lt 2 RIGHT_BRACKET      &kp H                       &kp J   &kp K      &kp L     &kp SEMI  &kp SQT
 &kp LSHFT     &kp Z       &kp X        &kp C                  &kp V   &kp B     &kp PG_UP               &kp PG_DN  &kp HOME        &kp END                  &kp N                       &kp M   &kp COMMA  &kp DOT   &kp FSLH  &mt RSHFT RET
 &kp LCTRL     &lt 1 PLUS  &lt 2 MINUS  &mt LEFT_ALT ASTERISK          &kp LGUI  &kp BACKSPACE           &kp DEL    &mt RCMD ENTER  &kp SPACE                        &mt RCMD BACKSLASH          &kp LEFT   &kp DOWN  &kp UP    &kp RIGHT
